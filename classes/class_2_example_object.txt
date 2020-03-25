@@ -1,0 +1,15 @@
+QuarterPounder
+
+Attributes
+
+veagan: false
+temp: "medium-rare"
+patty-number: 1
+fries: false
+
+Methods
+
+switch-with-veg: vagan: true
+cook-medium: temp: "medium"
+make-double: patty-number: 2
+add-fries: fries: true
