@@ -1,0 +1,15 @@
+burger
+
+Attributes
+
+vegan (boolean)
+temp (array)
+patty-number (integer)
+fries (boolean)
+
+Methods
+
+switch-with-veg (change vegan to true)
+cook-medium (change temp to medium)
+make-double (add one to patty-number)
+add-fries (fries:true)
