@@ -1,0 +1,14 @@
+drink
+
+Attributes
+salt (boolean)
+alcohol (string)
+fluid-oz (float)
+mix (array)
+
+Methods
+
+add-salt: (salt: true)
+make-with-tequila: (change alcohol to "tequila")
+make-tall: (fluid-oz + 4)
+make-marry: (change mix to ["marry-mix", "hot-sauce"])
