@@ -1,0 +1,11 @@
+Bloody Maria
+
+salt: false
+alcohol: "Vodka"
+fluid-oz: 4.5
+mix: ["tonic", "marry-mix", "marg-mix", "hot-sauce"]
+
+add-salt: change salt to true
+make-with-tequila: change alcohol to "tequila"
+make-tall: change fluid-oz to 8.5
+make-marry: (change mix to ["marry-mix", "hot-sauce"])
