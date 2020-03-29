@@ -1,14 +1,15 @@
-drink
+Drink
 
 Attributes
-salt (boolean)
+
+hasSalt (boolean)
 alcohol (string)
-fluid-oz (float)
+fluidOz (float)
 mix (array)
 
 Methods
 
-add-salt: (salt: true)
-make-with-tequila: (change alcohol to "tequila")
-make-tall: (fluid-oz + 4)
-make-marry: (change mix to ["marry-mix", "hot-sauce"])
+addSalt: (change salt to true)
+makeWithTequila: (change alcohol to "tequila")
+makeTall: (add 4 to FluidOz)
+makeMarry: (change mix to ["marryMix", "hotSauce"])

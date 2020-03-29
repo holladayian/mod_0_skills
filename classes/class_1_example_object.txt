@@ -1,11 +1,11 @@
-Bloody Maria
+BloodyMaria
 
 salt: false
-alcohol: "Vodka"
-fluid-oz: 4.5
-mix: ["tonic", "marry-mix", "marg-mix", "hot-sauce"]
+alcohol: "vodka"
+fluidOz: 4.5
+mix: ["tonic", "marryMix", "margMix", "hotSauce"]
 
-add-salt: change salt to true
-make-with-tequila: change alcohol to "tequila"
-make-tall: change fluid-oz to 8.5
-make-marry: (change mix to ["marry-mix", "hot-sauce"])
+addSalt: salt: true
+makeWithTequila: alcohol: "tequila"
+makeTall: fluidOz: 8.5
+makeMarry: change mix: ["marryMix", "hotSauce"]

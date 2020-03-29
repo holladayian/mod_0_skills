@@ -1,15 +1,15 @@
-burger
+Burger
 
 Attributes
 
-vegan (boolean)
+isVegan (boolean)
 temp (array)
-patty-number (integer)
+pattyNumber (integer)
 fries (boolean)
 
 Methods
 
-switch-with-veg (change vegan to true)
-cook-medium (change temp to medium)
-make-double (add one to patty-number)
-add-fries (fries:true)
+switchWithVeg (change vegan to true)
+cookMedium (change temp to medium)
+makeDouble (add 1 to pattyNumber)
+addFries (change fries to true)
