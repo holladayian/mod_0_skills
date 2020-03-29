@@ -1,9 +1,9 @@
-var Food = "Pizza";
-var IsNew = true; //bool
-var Food = "Burger";
-var Num1 = 3;
-var Num2 = 2;
-var Num3 = Num1 * Num2;
-var Movies = ["HotTubTimeMachine", "BackToTheFuture", "Terminator", "Endgame"];
-Movies.pop();
-var count = Movies;
+var food = "pizza";
+var isNew = true; //bool
+var food = "burger";
+var num1 = 3;
+var num2 = 2;
+var num3 = num1 * num2;
+var movies = ["hotTubTimeMachine", "backToTheFuture", "terminator", "endgame"];
+movies.pop();
+var count = movies;
